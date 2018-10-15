@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "dotenv": "^6.1.0",
-    "request": "^2.55.0",
+    "request": "^2.88.0",
     "xhr": "^2.0.1"
   },
   "standard": {
